@@ -7,5 +7,4 @@ def giaithua(n):
 num=int(input("nhập số cần tính thứ 1 ! :"))
 num1=int(input("nhập số cần tính thứ 2  ! :"))
 num2=int(input("nhập số cần tính thứ 3 ! :"))
-print("Giai thừa của ",num,"và",num1,"và",num2,"là",giaithua(num),'và',giaithua(num1),'và',giaithua(num2))
-© 2019 GitHub, Inc.
+print("Giai thừa của ",num,"và",num1,"và",num2,"là",giaithua(num),'và',giaithua(num1),'và',giaithua(num2)) 
