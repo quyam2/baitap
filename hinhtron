@@ -1,0 +1,22 @@
+? phiên bản xml = " 1.0 " ?>
+< chuyển đổi tập tin thuật  toán = " 2.11 " >
+    < thuộc tính >
+        < tên thuộc tính  = " tên " giá trị = " " /> 
+        < tên thuộc tính  = " tác giả " value = " Quản trị viên " /> 
+        < tên thuộc tính  = " về " giá trị = " " /> 
+        < tên thuộc tính  = " đã lưu " value = " 2019-03-07 03:16:29 PM " /> 
+        < tên thuộc tính  = " đã tạo " value = " QWRtaW47S0lUSFVBVDg4LVBDOzIwMTktMDMtMDc7MDI6MjA6MjggUE07MjYxMQ == " /> 
+        < tên thuộc tính  = " đã chỉnh sửa " value = " QWRtaW47S0lUSFVBVDg4LVBDOzIwMTktMDMtMDc7MDM6MTY6MjkgUE07MjsyNzI3 " /> 
+    </ thuộc tính >
+    < function  name = " Main "  type = " Không "  biến = " " >
+        < tham số />
+        < cơ thể >
+            < khai báo  name = " s "  type = " Integer "  mảng = " Sai "  size = " " />
+            < khai báo  name = " r "  type = " Integer "  mảng = " Sai "  size = " " />
+            < biểu thức đầu ra  = " & quot; bankinh & quot; " newline = " Đúng " /> 
+            < biến đầu vào  = " r " />
+            < gán  biến = " s "  biểu thức = " 3.14 * r * r " />
+            < biểu thức đầu ra  = " & quot; dientichla & quot; & amp; s " newline = " True " />  
+        </ cơ thể >
+    </ chức năng >
+</ thuật toán >
